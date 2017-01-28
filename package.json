@@ -1,0 +1,11 @@
+{
+  "name": "wiki-racer",
+  "version": "1.0.0",
+  "description": "wiki racer implemented with bidirectional BFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ani Agajanyan",
+  "license": "ISC"
+}
