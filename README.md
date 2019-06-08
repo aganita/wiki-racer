@@ -1,3 +1,8 @@
 # wiki-racer
+### under construction
 
-https://github.com/aganita/wiki-racer.git
+## to do
+- add readme 
+- harden https-proxy (add proper error handling)
+- add parsing module
+- add bidirectional search module 
