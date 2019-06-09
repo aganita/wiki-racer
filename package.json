@@ -4,7 +4,7 @@
   "description": "wiki racer implemented with bidirectional BFS",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose",
+    "test": "jest --watch --verbose",
     "start": "node lib/app.js"
   },
   "author": "Ani Agajanyan",
