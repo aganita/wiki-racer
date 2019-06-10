@@ -1,5 +1,43 @@
 <!DOCTYPE html>
-<header></header>
-<div> <p>Home page for WikiRacer!!!</p></div>
-<body></body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Wiki Racer</title>
+    <meta name="description" content="">
+    <meta name="author" content="Ani Agajanyan">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="icon" type="image/png" href="">
+  </head>
+  <body>
+    <div class="container">
+      <div><h3>Wiki Racer</h3></div>
+      <div>
+        <form action="/geturl" method="get">
+          <div class="row">
+            <div class="six columns">
+              <label for="start">Start URL</label>
+              <input class="u-full-width" type="text" id="start" name="start">
+            </div>
+            <div class="six columns"></div>
+          </div>
+          <div class="row">
+            <div class="six columns">
+              <label for="end">End URL</label>
+              <input class="u-full-width" type="text" id="end" name="end">
+            </div>
+            <div class="six column"></div>
+          </div>
+          <div class="row">
+            <input class="button-primary" type="submit" value="Get Path">
+          </div>
+        </form>
+      </div>
+    <!-- CSS powered by http://getskeleton.com/ -->
+    <!-- Always wrap checkbox and radio inputs in a label and use a <span class="label-body"> inside of it -->
+    <!-- Note: The class .u-full-width is just a utility class shorthand for width: 100% -->
+    </div>
+  </body>
 </html>
