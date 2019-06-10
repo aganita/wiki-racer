@@ -5,8 +5,8 @@ Wikiracing is a game that people play on Wikipedia. Given a starting article and
 ## Project Demo https://wiki-racer.herokuapp.com/
 
 ## to do
-
-- harden https-proxy (add proper error handling)
-- add proper input sanitization/validation
-- add intergation test
+- improve the performance (search is too slow) 
+- improve error handling
+- impeove input validation
+- improve test coverage
 - edit readme
