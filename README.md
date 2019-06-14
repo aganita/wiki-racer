@@ -16,7 +16,7 @@ Wikiracing is a game that people play on Wikipedia. Given a starting article and
 - [NodeJS](https://nodejs.org) `10.x` or newer
 - [npm](https://www.npmjs.com/get-npm) `6.x` or newer
 
-### Get the source code
+### Run locally
 - Clone the repo and install NodeJS components listed in package.json
 ```shell
 $ git clone https://github.com/aganita/wiki-racer.git
