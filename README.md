@@ -1,7 +1,7 @@
-# Wiki Racer
+# Wikiracer
 
 ## Project Demo 
-https://wiki-racer.herokuapp.com/
+https://wikiracer.herokuapp.com/
 
 ## Description
 Wikiracing is a game that people play on Wikipedia. Given a starting article and an ending article, the objective of a wikirace is to get from the starting article to the ending article by only clicking on links occurring in the main bodies of wikipedia articles (not including the side navigation bar or the category footer).
@@ -19,8 +19,8 @@ Wikiracing is a game that people play on Wikipedia. Given a starting article and
 ### Run locally
 - Clone the repo and install NodeJS components listed in package.json
 ```shell
-$ git clone https://github.com/aganita/wiki-racer.git
-$ cd wiki-racer
+$ git clone https://github.com/aganita/wikiracer.git
+$ cd wikiracer
 $ npm i
 ```
 
@@ -31,9 +31,9 @@ $ npm start
 
 - Access the app on http://localhost:3000
 
-## to do
-- [ ] improve the performance
-- [ ] improve error handling
+## To do
+- [ ] performance - make search faster
+- [ ] error handling
 - [ ] improve input validation
 - [ ] improve test coverage
 - [ ] improve security
