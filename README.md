@@ -9,7 +9,7 @@ Wikiracing is a game that people play on Wikipedia. Given a starting article and
 ## Stack
 - [NodeJS](https://nodejs.org) `10.x` or newer
 - [Fasify](https://www.fastify.io/) - web framework for NodeJS
-- [cheerio](https://github.com/zmxv/react-native-sound) fast html markup parsing
+- [cheerio](https://cheerio.js.org/) fast html markup parsing
 
 ## For Developers
 ### Requirements
